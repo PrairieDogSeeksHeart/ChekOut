@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CheckOut",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 221,
     "versionPublish": "4.6.3",
@@ -2014,7 +2014,7 @@
               "color": "#858a95"
             },
             "H2": {
-              "color": "#485a6e"
+              "color": "#ff3366"
             }
           },
           "_name": "content4",
@@ -2036,7 +2036,7 @@
               "text-align": "left"
             },
             "H2": {
-              "color": "#ff3366"
+              "color": "#485a6e"
             }
           },
           "_name": "content4",
@@ -2058,7 +2058,7 @@
               "text-align": "left"
             },
             "H2": {
-              "color": "#ff3366"
+              "color": "#485a6e"
             }
           },
           "_name": "content4",
@@ -2080,7 +2080,7 @@
               "text-align": "left"
             },
             "H2": {
-              "color": "#ff3366"
+              "color": "#485a6e"
             }
           },
           "_name": "content4",
